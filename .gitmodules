@@ -1,0 +1,4 @@
+[submodule "src/shared_assets"]
+	path = src/shared_assets
+	url = https://github.com/vickailiu/shared_assets.git
+	branch = master
